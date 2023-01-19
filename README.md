@@ -5,6 +5,6 @@
 
 </p>   -->
 
-![Alt text](Assets/animation.gif)|![Alt text](Assets/animation.gif)
+![Alt text](Assets/stablePoints.gif)|![Alt text](Assets/LQRController.gif)
  :--:|:--:
-  *Following Trajectory using LQR* |*Doing Full Flip using iLQR*
+  *Staying at Stable points* |*Following a circular trajectory using LQR Controller*
