@@ -33,3 +33,24 @@ trajectoryController(state,i)
 ![Alt text](Assets/circleState.png)|![Alt text](Assets/circleControl.png)
  :--:|:--:
   *State of Drone* |*Controls*
+  
+  ## iLQR Controller 
+The LQR controller uses a mathematical model of the system to optimize the control inputs to minimize a cost function of the system's performance, it calculates the control inputs that will minimize the difference between the desired and actual performance of the system. It also ensures the stability of the system by minimizing the control inputs.
+
+The mathematical model of the system is linearized around the state and control to use the LQR controller. 
+```python
+get_linearization(state,control)
+```
+Quadratic cost is computed using the current state and control. Controller will try to minimize this cost.
+```python
+computeCost(z,u,horizonLength)
+```
+Riccati's equations are used the calculate the controls for the drone to follow the trajectory.
+```python
+trajectoryController(state,i)
+```
+### Plots of States and controls of drone following circular trajectory 
+![Alt text](Assets/circleState.png)|![Alt text](Assets/circleControl.png)
+ :--:|:--:
+  *State of Drone* |*Controls*
+
