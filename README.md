@@ -32,4 +32,4 @@ trajectoryController(state,i)
 ### Plots of States and controls of drone following circular trajectory 
 ![Alt text](Assets/circleState.png)|![Alt text](Assets/circleControl.png)
  :--:|:--:
-  *State of the drone* |*Controls*
+  *State of Drone* |*Controls*
