@@ -14,3 +14,7 @@ In recent times, drones, especially quadrotors, are being used for important tas
  :--:|:--:
  *90* $\degree$ *Flip* |*180* $\degree$ *Flip*
 
+## LQR Controller 
+```python
+get_linearization
+```
