@@ -7,4 +7,4 @@
 
 ![Alt text](Assets/stablePoints.gif)|![Alt text](Assets/LQRController.gif)
  :--:|:--:
-  *Staying at Stable points* |*Following a circular trajectory using LQR Controller*
+  *Staying at Stable points* |*Following Circular Trajectory using LQR Controller*
