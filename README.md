@@ -37,7 +37,7 @@ trajectoryController(state,i)
   ## iLQR Controller 
 iLQR controller uses an iterative optimization algorithm to find the optimal control inputs for a system. It updates the control inputs based on the system's response to the current inputs, and iterates until the desired performance is achieved.
 
-The mathematical model of the system is linearized around the state and control to use the LQR controller. 
+The mathematical model of the system is linearized around the state and control to use the iLQR controller. 
 ```python
 get_linearization(state,control)
 ```
