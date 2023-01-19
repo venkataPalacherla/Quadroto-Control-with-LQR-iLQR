@@ -5,6 +5,6 @@
 
 </p>   -->
 
-![Alt text](Assets/stablePoints.gif)|![Alt text](Assets/LQRController.gif)
+![Alt text](Assets/StablePoints.gif)|![Alt text](Assets/LQRController.gif)
  :--:|:--:
   *Staying at Stable points* |*Following Circular Trajectory using LQR Controller*
