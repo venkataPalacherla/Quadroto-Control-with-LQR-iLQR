@@ -12,4 +12,4 @@ In recent times, drones, especially quadrotors, are being used for important tas
 
 ![Alt text](Assets/iLQR90.gif)|![Alt text](Assets/iLQR180.gif)
  :--:|:--:
-  *90&deg Filp* |*180&deg Flip*
+  *90$\text{\textdegree}$* |*180$\text{\textdegree}$ Flip*
