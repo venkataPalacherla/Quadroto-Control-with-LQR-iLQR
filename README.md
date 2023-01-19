@@ -29,3 +29,7 @@ Riccati's equations are used the calculate the controls for the drone to follow 
 ```python
 trajectoryController(state,i)
 ```
+### Plots of States for following circular trajectory 
+![Alt text](Assets/circleState.png)|![Alt text](Assets/circleControl.png)
+ :--:|:--:
+  *State of the drone* |*Controls*
