@@ -21,3 +21,11 @@ The mathematical model of the system is linearized around the state and control 
 ```python
 get_linearization(state,control)
 ```
+Quadratic cost is computed using the current state and control. Controller will try to minimize this cost.
+```python
+computeCost(z,u,horizonLength)
+```
+Riccati's equations are used the calculate the controls for the drone to follow the trajectory.
+```python
+trajectoryController(state,i)
+```
