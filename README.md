@@ -5,6 +5,6 @@
 
 </p>   -->
 
-![Alt text](assets/animation.gif)|![Alt text](assets/animation.gif)
+![Alt text](Assets/animation.gif)|![Alt text](Assets/animation.gif)
  :--:|:--:
   *Following Trajectory using LQR* |*Doing Full Flip using iLQR*
